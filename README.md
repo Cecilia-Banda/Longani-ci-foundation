@@ -2,7 +2,7 @@
 DevOps foundation for the Longani Project
 
 
-# Longani Hospital — Phase 1 (Project Inception, Planning & CI Foundation)
+# Longani Hospital... Phase 1 (Project Inception, Planning & CI Foundation)
 
 Author: Cecilia Banda  
 Date: 2025-08-10
